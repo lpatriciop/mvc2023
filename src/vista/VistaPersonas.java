@@ -161,7 +161,7 @@ public class VistaPersonas extends javax.swing.JInternalFrame {
 
         jPanel1.setBackground(new java.awt.Color(255, 204, 102));
 
-        jLabel1.setText("Search");
+        jLabel1.setText("Buscar");
 
         bntCrear.setText("Crear");
 
