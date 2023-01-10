@@ -157,11 +157,11 @@ public class VistaPersonas extends javax.swing.JInternalFrame {
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
-        setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
 
         jPanel1.setBackground(new java.awt.Color(255, 204, 102));
 
-        jLabel1.setText("Buscar");
+        jLabel1.setText("Search");
 
         bntCrear.setText("Crear");
 
